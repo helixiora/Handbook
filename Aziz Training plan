@@ -1,0 +1,8 @@
+Practical training:
+Create AWS Sandbox account under Helixiora org and document the process for Mina and future colleagues. You can spend up to 100 USD per month.
+Create a wordpress site on AWS using Terraform and gihub
+Configure monitoring alarms
+Configure backup
+Configure patching
+Create dashboards for performance, cost, application and infrastructure uptime, security, and sustainability
+Calculate the cost of the observability configured in tasks 3 and 6 as a percentage of the entire AWS cost
